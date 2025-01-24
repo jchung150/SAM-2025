@@ -3,7 +3,7 @@ import { Link } from "@heroui/link";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 
-import { Navbar } from "@/components/navbar";
+import Navbar from "@/components/navbar";
 
 export default async function RootLayout({
   children,
