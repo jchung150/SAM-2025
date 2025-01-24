@@ -1,0 +1,10 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "content": "This is Stories A Million"
+  },
+  "AboutPage": {
+    "title": "About",
+    "content": "This is about page"
+  }
+}
